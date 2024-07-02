@@ -39,6 +39,9 @@
     "description": "A short description of your project",
     "short_description": "A short description of your project",
     "whitepaper": "https://example.com/whitepaper.pdf",
+    "commonwealth": "whatever",
+    "hydro": "whatever",
+    "forum": "whatever",
     "contact": {
       "email": "",
       "telegram": "",
