@@ -2,8 +2,8 @@
   "ics": {
     "spawn_time": "2024-06-27T17:56:00Z",
     "title": "consumerd",
-    "summary": ".md description of your chain and all other relevant information",
-    "chain_id": "newchain-1",
+    "summary": "Discover the power of decentralized finance with our cutting-edge DeFi futures trading platform. Experience seamless, secure, and transparent trading with lightning-fast transactions, minimal fees, and robust risk management tools. Empower your trading journey with innovative features, a user-friendly interface, and 24/7 access to global markets, all while maintaining full control of your assets. Join us and redefine your trading experience today!",
+    "chain_id": "awesomechain-1",
     "initial_height": {
       "revision_number": 1,
       "revision_height": 0
@@ -36,7 +36,7 @@
     "target_launch_date": "2024-06-27T17:56:00Z",
     "logo": "https://example.com/logo.png",
     "website": "https://example.com",
-    "description": "A short description of your project",
+    "description": "Discover the power of decentralized finance with our cutting-edge DeFi futures trading platform. Experience seamless, secure, and transparent trading with lightning-fast transactions, minimal fees, and robust risk management tools. Empower your trading journey with innovative features, a user-friendly interface, and 24/7 access to global markets, all while maintaining full control of your assets. Join us and redefine your trading experience today!",
     "short_description": "A short description of your project",
     "whitepaper": "https://example.com/whitepaper.pdf",
     "commonwealth": "whatever",
